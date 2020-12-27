@@ -26,3 +26,12 @@ Average fares per ride are higher in rural areas, with rural rides costing appro
 
 Average fares per driver are lower in urban areas.  Urban fares are 58% cheaper than suburban fares and 70% cheaper than rural fares.
 
+
+
+
+
+
+
+## Summary
+It is recommended PyBer conduct this analysis with rider demographics, such as poplution, age range, and gender, as this could impact analysis.  PyBer would also benefit from conducting this analysis periodically in order to determine if more or less drivers are needed in a particular area. Additionally, times of day, holidays, and events could also impact PyBer's trend and pattern analysis.
+
