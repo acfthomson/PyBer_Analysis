@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
-Ride-sharing app company 'PyBer' needed ride-sharing data from January 2019-May 2019 analyzed to show total rides, total drivers, total fares, average fare per ride, average fare per driver, and total weekly fares for each city type.  Data from urban, suburban, and rural cities was provided.  Using Python libraries 'Pandas' and 'Matplotlib', a summary chart for each city type's totals and averages was produced, as well as a muliple-line graph chart that shows the total weekly fares for each city type.  This analysis will summarize how data differs by city type and how those differences can be leveraged by senior leadership at PyBer.
+Fictional ride-sharing app company 'PyBer' needed ride-sharing data from January 2019-May 2019 analyzed to show total rides, total drivers, total fares, average fare per ride, average fare per driver, and total weekly fares for each city type.  Data from urban, suburban, and rural cities was provided.  Using Python libraries 'Pandas' and 'Matplotlib', a summary chart for each city type's totals and averages was produced, as well as a muliple-line graph chart that shows the total weekly fares for each city type.  This analysis will summarize how data differs by city type and how those differences can be leveraged by senior leadership at PyBer.
 
 ## Resources
 - Jupyter Notebook
